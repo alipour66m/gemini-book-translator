@@ -13,7 +13,7 @@ Follow these steps to set up the project locally.
 
 1. **Copy the repository:** 
    ```bash 
-   git clone [https://github.com/](https://github.com/)<your-username>/book-translation-tool.git
+   git clone https://github.com/alipour66m/book-translation-tool.git
    cd book-translation-tool 
    ```
 2. **Create and activate a virtual environment** *(recommended)*:
